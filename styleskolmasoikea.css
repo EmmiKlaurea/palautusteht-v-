@@ -1,0 +1,35 @@
+<style>
+*{
+    box-sizing: border-box;
+}
+nav1{
+float: left;
+width: 20%;
+background: rgb(24, 111, 114);
+padding:50px;
+line-height: 80px;
+font-size: 20px;
+}
+header {
+text-align-last: center;
+background-color: rgb(4, 46, 46);
+padding:30px;
+font-size: 35px;
+}
+
+tekstiboksi{
+    text-align: center;
+    padding: 70px;
+  font size: 50px;
+}
+
+body{
+    background-color:rgb(12, 102, 102)
+}
+div li:hover{
+    color: red
+}
+div ul {
+list-style-type:square
+padding: 0;
+}
